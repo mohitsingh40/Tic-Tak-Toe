@@ -31,6 +31,3 @@ A browser-based Tic-Tac-Toe game with a clean, simple interface. Play on a 3 × 
 
 No additional server is required for a basic local run.
 
-## Repository
-
-[View the Tic-Tac-Toe repository on GitHub](https://github.com/mohitsingh40/Tic-Tak-Toe)
